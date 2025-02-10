@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  /* height: 100vh;
+  width: 100vw;
+  background-color: beige;
+  overflow:hidden */
+
+  /* background: linear-gradient(135deg, #eef2f3, #d9e2ec); Soft gradient */
+  /* min-height: 100vh; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* font-family: 'Poppins', sans-serif; */
+  background-color: aqua;
+}
+
+.tag{
+  position: relative;
+  left: 50%;
+}
