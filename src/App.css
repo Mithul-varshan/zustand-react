@@ -15,10 +15,12 @@ body{
   /* justify-content: center; */
   /* align-items: center; */
   /* font-family: 'Poppins', sans-serif; */
-  background-color: aqua;
+  background-color: rgb(195, 239, 239);
+  overflow: hidden;
 }
 
 .tag{
   position: relative;
-  left: 50%;
+  left: 44%;
+  margin-top: 150px;
 }
